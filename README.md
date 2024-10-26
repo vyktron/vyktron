@@ -4,7 +4,7 @@ I’m **Victor** !
 
 🇫🇷 A French  **Computer Engineer**
 
-💉 Currently working at **Sanofi**
+🛩️ Currently working at **Safran**
 
 🤖 Specializing in **AI** 
 
