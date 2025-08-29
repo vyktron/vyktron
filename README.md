@@ -2,17 +2,11 @@
 
 I’m **Victor** !
 
-🇫🇷 A French  **Computer Engineer**
+🇫🇷 French  **Computer Engineer**
 
 🛩️ Currently working at **Safran**
 
-🤖 Specializing in **AI** 
-
-
-
-💻 I work every day to **develop my technical skills** (Deep Learning technology watch, DevOps, User Interface...)
-
-📖 I support **open source** and would like to take part in **collaborative AI projects** to enrich my career
+🤖 Interested in **ML**, **GenAI** and **DevOps**
 
 #
 
